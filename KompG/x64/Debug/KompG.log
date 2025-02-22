@@ -1,0 +1,8 @@
+﻿  KompG.cpp
+C:\Users\derun\source\repos\KompGo\KompG\KompG.cpp(44,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\derun\source\repos\KompGo\KompG\KompG.cpp(44,19): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\derun\source\repos\KompGo\KompG\KompG.cpp(46,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\derun\source\repos\KompGo\KompG\KompG.cpp(47,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\derun\source\repos\KompGo\KompG\KompG.cpp(49,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\derun\source\repos\KompGo\KompG\KompG.cpp(50,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  KompG.vcxproj -> C:\Users\derun\source\repos\KompGo\x64\Debug\KompG.exe
